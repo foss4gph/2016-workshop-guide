@@ -23,11 +23,11 @@ Install Grass GIS 7 using [https://grass.osgeo.org/grass7/](https://grass.osgeo.
 
 ## Invitation to QGIS and QGIS Map Composer Workshops
 QGIS Installer: [http://www.qgis.org/en/site/forusers/download.html](http://www.qgis.org/en/site/forusers/download.html)
-  - Link to the workshop datasets [here](https://www.dropbox.com/sh/klf9uhgc09kgyxf/AABlkQOgyrQS1yTlNqGCoXJEa?dl=0)
-  - OpenLayers plugin installation
-    1. Go to the "Plugins" menu and select "Manage and Install Plugins"
-    2. Once the list of plugins are listed down, scroll down the list and find the OpenLayer plugin.
-    3. Click on the "Install plugin" button and wait for QGIS to download and finish
+1. Link to the workshop datasets [here](https://www.dropbox.com/sh/klf9uhgc09kgyxf/AABlkQOgyrQS1yTlNqGCoXJEa?dl=0)
+2. OpenLayers plugin installation
+    - Go to the "Plugins" menu and select "Manage and Install Plugins"
+    - Once the list of plugins are listed down, scroll down the list and find the OpenLayer plugin.
+    - Click on the "Install plugin" button and wait for QGIS to download and finish
  
 
 ## Reminders
