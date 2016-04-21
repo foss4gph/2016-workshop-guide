@@ -1,5 +1,12 @@
 # FOSS4GPH 2016 Workshop Installation and Setup Guide
 
+## OSM for Beginners
+1. Install JRE through [http://www.java.com/download](http://www.java.com/download)
+2. Install the latest Java OpenStreetMap Editor (JOSM) [https://josm.openstreetmap.de/wiki/Download](https://josm.openstreetmap.de/wiki/Download)
+3. Enable "Remote Connection" for JOSM
+4. Make sure your computer's firewall is not blocking the default remote port of JOSM 8111(http), 8112(https)
+
+
 ## GeoPython Workshop
 1. Download Miniconda with the appropriate version for your operating system using the following link: [http://conda.pydata.org/miniconda.html](http://conda.pydata.org/miniconda.html)
 2. Install Miniconda using the installer and check all the boxes when prompted. <br />
