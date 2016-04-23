@@ -26,7 +26,8 @@
 
 
 ## Grass GIS Workshop
-Install Grass GIS 7 using [https://grass.osgeo.org/grass7/](https://grass.osgeo.org/grass7/)
+Install Grass GIS 7.0.3 using [https://grass.osgeo.org/news/54/56/GRASS-GIS-7-0-3-released/](https://grass.osgeo.org/news/54/56/GRASS-GIS-7-0-3-released/)
+
 
 ## Invitation to QGIS and QGIS Map Composer Workshops
 QGIS Installer: [http://www.qgis.org/en/site/forusers/download.html](http://www.qgis.org/en/site/forusers/download.html)
