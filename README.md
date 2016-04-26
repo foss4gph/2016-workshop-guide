@@ -6,6 +6,7 @@
 3. Enable "Remote Connection" for JOSM
 4. Make sure your computer's firewall is not blocking the default remote port of JOSM 8111(http), 8112(https)
 
+Download the [manual](http://blog.noah.dost.gov.ph/2016/04/12/openstreetmap-editing-for-the-philippines-in-support-of-risk-analysis-map-development/) and the [presentation](http://www.slideshare.net/schadow1/introduction-to-openstreetmap-its-extracts-and-relation-to-project-noah)
 
 ## GeoPython Workshop
 1. Download Miniconda with the appropriate version for your operating system using the following link: [http://conda.pydata.org/miniconda.html](http://conda.pydata.org/miniconda.html)
@@ -24,10 +25,12 @@
    This will open a web browser. If the command does not open up browser just open your browser and go to http://localhost:8888
 6. You should now see the jupyter notebook running in your browser.
 
+Check the material [here](https://github.com/lkpanganiban/geopython-tutorial) 
 
 ## Grass GIS Workshop
 Install Grass GIS 7.0.3 using [https://grass.osgeo.org/news/54/56/GRASS-GIS-7-0-3-released/](https://grass.osgeo.org/news/54/56/GRASS-GIS-7-0-3-released/)
 
+Check the material [here](https://benhur07b.github.io/foss4gph2016-workshop-grass) and the [data](https://github.com/benhur07b/foss4gph2016-workshop-grass) 
 
 ## Invitation to QGIS and QGIS Map Composer Workshops
 1. Link to the workshop datasets [here](https://www.dropbox.com/sh/klf9uhgc09kgyxf/AABlkQOgyrQS1yTlNqGCoXJEa?dl=0) <br />
@@ -39,6 +42,9 @@ Install Grass GIS 7.0.3 using [https://grass.osgeo.org/news/54/56/GRASS-GIS-7-0-
 
 QGIS Installer: [http://www.qgis.org/en/site/forusers/download.html](http://www.qgis.org/en/site/forusers/download.html) <br /> 
 
+Check the course materials:
+  - [Intro to QGIS](https://www.dropbox.com/sh/klf9uhgc09kgyxf/AABlkQOgyrQS1yTlNqGCoXJEa?dl=0)
+  - [QGIS Map Composer](https://drive.google.com/open?id=0BwvO6IOR4gglbkFyQXczc1FOOEk) 
 
 ## Reminders
  - Bring your Laptop
